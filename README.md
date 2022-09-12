@@ -2,7 +2,8 @@
 
 The Stone Crystal Wizard is a technology that uses Crystals
 
-This project is about building a Crystal Computer that can record sensor data, the name came from a dream I had, and finding a name for that dream led me here, where I will talk about my concept of a Crystal Computer, the Wizard is what guides you from one interaction to the next. 
+This project is about building a Crystal Computer that can record sensor data, the name came from a dream I had, and finding a name for that dream led me here, where I will talk about my concept of a Crystal Computer, the Wizard is what guides you from one interaction to the next,
+it can be a series of switches you move right or left, or up or down. 
 
 In my dream, I found a Stone online and bought it, my wife was not too happy about the purchase, but I soon cracked it open, and found an ancient tablet in it, inside the tablet was a Crystal Computer, it recorded data about temperature, humidity, air pressure, earthquakes, magnetic strength, magnetic direction, and magnetic polarity, all things, you want to record to determine when the Earth will reverse its Polarity.
 
@@ -24,7 +25,7 @@ Cost-wise, this is the cheapest to get into, it is geared for people who make mo
 
 I have been using Unreal for a long time, years, not sure how many but over a decade, I just like playing with it, learning about it, and the games I made were not meant for anyone to play, I was always looking for a way to make movies with it, and so were others, and now it is set up for making movies.
 
-I have to install 4 and 5 because not all the plugins work with 5 yet, but I am only going to use 5, so I will have to wait for the plugs to migrate to 5, which is soon for the ones I want to use.
+I have to install 4 and 5 because not all the plugins work with 5 yet, but I am only going to use 5, so I will have to wait for the plugs to migrate to 5, which is soon for the ones I want to use, I will show you how to [set up Unreal Engine](https://github.com/Light-Wizzard/The-Stone-Crystal-Wizard/wiki/Unreal-Engine).
 
 I have to work in Windows due to the speech, but they do make Unreal for Linux.
 
