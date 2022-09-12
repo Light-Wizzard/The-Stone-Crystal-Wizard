@@ -13,6 +13,10 @@ History calls Kepler, Newton, and Tesla, as the Greatest Wizards of all times, b
 
 You can ask NASA, they did a 100-year study and concluded it is decaying at a constant rate of around 5% a century, after 20 Centuries we are out of Time.
 
+One paper you might find of interest is Earth’s magnetic field is probably not reversing [https://www.pnas.org/doi/10.1073/pnas.1722110115](https://www.pnas.org/doi/10.1073/pnas.1722110115), but the model I will use is the same one Kepler, Newton, or Tesla would have used, but I have to admit at this point, our North Magnetic Pole is heading towards the Equator, and if the current rate precist, it should get there by the year 2061, but I see no reason it cannot just go back to phyiscal South Pole location since a compass points North, its pole must be South.
+
+I will try to prove that our Magnetosphere is about to do a pole reversal, but if you read the above, maybe it will do it in a different way, and the way I want to prove, is the that on 14 January 2061 at 6:32 PST, when the Binary Star Sirius aligns with the Great Pyramid, our decay rate will be at 0, and the count down is over, and our Atmosphere vents into space for <sup>1</sup>/<sub>137</sub> the diameter of the Earth, or 6.66 minuites, and our Gravity will be a 0 for that time, and slowly build back up, and instant ice age, and I want to build an [End of Time Machine](https://github.com/Light-Wizzard/End-Of-Time-Recorder) to prove it.
+
 This project is to prove this Stone Crystal Wizard can be built, and I want to build it, so, we will see blueprints in the form of Blender 3D animation files, schematics, and detailed explanations on how to make these crystal devices.
 
 I will create an Audiobook series called "The Stone Crystal Wizard", it will talk about all this, and what I am working on first, building things cost money, so I plan to sell these same mp3 files online, at Audiobook stores, so, I can afford to build this Stone Crystal Wizard.
